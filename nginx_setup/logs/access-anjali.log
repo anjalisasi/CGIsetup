@@ -2,3 +2,5 @@
 109.249.184.237 - - [02/May/2020:12:04:03 +0000] "GET / HTTP/1.1" 200 120 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
 109.249.184.237 - - [02/May/2020:12:04:04 +0000] "GET /favicon.ico HTTP/1.1" 404 556 "http://35.177.78.42/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36"
 172.18.0.1 - - [02/May/2020:12:17:54 +0000] "GET / HTTP/1.1" 200 120 "-" "curl/7.29.0"
+172.18.0.1 - - [02/May/2020:12:31:30 +0000] "GET / HTTP/1.1" 200 120 "-" "curl/7.29.0"
+172.19.0.1 - - [02/May/2020:12:46:06 +0000] "GET / HTTP/1.1" 200 120 "-" "curl/7.29.0"

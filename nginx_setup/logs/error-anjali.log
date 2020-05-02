@@ -3,3 +3,5 @@
 2020/05/02 12:04:04 [info] 6#6: *2 client 109.249.184.237 closed keepalive connection
 2020/05/02 12:05:03 [info] 6#6: *3 client timed out (110: Connection timed out) while waiting for request, client: 109.249.184.237, server: 0.0.0.0:80
 2020/05/02 12:17:54 [info] 6#6: *1 client 172.18.0.1 closed keepalive connection
+2020/05/02 12:31:30 [info] 6#6: *1 client 172.18.0.1 closed keepalive connection
+2020/05/02 12:46:06 [info] 6#6: *1 client 172.19.0.1 closed keepalive connection
